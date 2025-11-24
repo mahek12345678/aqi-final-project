@@ -1,0 +1,5 @@
+{
+  "name": "AQI ML Prediction India",
+  "description": "A comprehensive Air Quality Index prediction platform for Indian cities using Statistical & Machine Learning techniques (Linear Regression, Random Forest, Gradient Boosting, ARIMA).",
+  "requestFramePermissions": []
+}
